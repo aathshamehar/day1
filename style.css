@@ -1,0 +1,31 @@
+
+div {
+    background-color: rgb(255, 244, 244);
+    width: 600px;
+    border: 20px solid rgb(33, 34, 33);
+    padding: 50px;
+    margin: 20px;
+  }
+h1 {
+    border: 1px solid rgb(0, 0, 0);
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+
+body {
+    
+    background-color: rgb(209, 185, 185);
+  }
+  h1 {
+    
+    color: rgb(4, 4, 63);
+  }
+  li {
+    color: rgb(129, 14, 14);
+  }
+  img {
+    border-radius: 50%;
+    border: 15px solid #a5a1a1;
+  }
